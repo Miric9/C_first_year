@@ -1,6 +1,7 @@
 #include<stdio.h>
 void main(void)
 {
+//this is comment
    float zarada,porez;
    printf("Unesite iznos zarade:");
    scanf("%f",&zarada);
